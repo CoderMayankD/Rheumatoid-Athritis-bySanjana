@@ -1,0 +1,111 @@
+# tactiq.io free youtube transcript
+# Immunology of the rheumatoid joint
+# https://www.youtube.com/watch/nYjzl3Xc_0E
+
+00:00:28.740 rheumatoid arthritis is a common
+00:00:31.210 autoimmune disorder of the joints that
+00:00:33.400 affects about 1% of the population
+00:00:35.019 worldwide more often women than men the
+00:00:39.250 exact causes of the disease are unknown
+00:00:41.229 but an individual's risk is thought to
+00:00:43.330 be increased by a combination of genetic
+00:00:45.309 and environmental factors many of the
+00:00:48.339 genes associated with rheumatoid
+00:00:49.930 arthritis are involved in immune system
+00:00:52.089 function non genetic risk factors
+00:00:55.600 include age diet infectious agents and
+00:00:58.510 smoking in an autoimmune disorder such
+00:01:02.920 as rheumatoid arthritis the immune
+00:01:04.809 system mistakenly attacks and destroys
+00:01:06.760 the body's own cells and tissues which
+00:01:09.189 immunologists refer to as self and this
+00:01:11.740 autoimmunity can begin many years before
+00:01:13.720 joint symptoms are noticed doctors can
+00:01:17.590 use blood tests to identify this
+00:01:19.210 preclinical phase by the presence of
+00:01:21.190 multiple factors in the blood such as
+00:01:23.320 Auto antibodies and inflammatory factors
+00:01:25.740 these early auto antibodies are thought
+00:01:28.450 to first develop outside of the joints
+00:01:30.430 possibly in the gut mouth or lungs
+00:01:33.510 environmental factors such as smoking
+00:01:35.710 can modify our self proteins making them
+00:01:38.320 targets for the immune system one
+00:01:40.690 particular modification is called citral
+00:01:42.970 ination
+00:01:44.220 when the immune system recognizes these
+00:01:46.870 modified self proteins it leads to a
+00:01:49.210 breach of self tolerance and the
+00:01:50.680 production of autoreactive b-cells and
+00:01:53.409 auto antibodies and later or two
+00:01:55.330 reactive t-cells the hallmarks of
+00:01:57.400 autoimmune disease by the time that
+00:02:00.250 symptoms appear the immune response has
+00:02:02.440 intensified and the antibodies produced
+00:02:04.659 target abroad a range of self proteins
+00:02:07.679 but it's only in some patients that this
+00:02:10.269 systemic autoimmunity progresses to
+00:02:12.489 joint inflammation which is possibly
+00:02:14.500 triggered by an increase in joint
+00:02:16.090 permeability and increased access to
+00:02:18.130 antibodies
+00:02:19.700 looking out how to prevent this
+00:02:20.810 progression is a major goal for
+00:02:22.250 scientists in patients who do develop
+00:02:26.000 joint disease the small joints of the
+00:02:27.800 hands and feet are most commonly
+00:02:29.420 affected after entering a joint immune
+00:02:33.379 cells and Auto antibodies bind to
+00:02:35.480 modified self proteins in the cartilage
+00:02:37.489 bone and lining of the joint of the
+00:02:39.739 synovium this induces an inflammatory
+00:02:42.620 response and activate cells in the joint
+00:02:44.900 such as macrophages neutrophils and
+00:02:47.299 osteoclasts as well as blood monocytes
+00:02:50.799 activated monocytes differentiate into
+00:02:53.599 yet more macrophages which together with
+00:02:55.880 other cells in the joint produce soluble
+00:02:58.190 inflammatory factors known as cytokines
+00:03:00.610 drugs targeting these cytokines are
+00:03:03.230 highly effective treatments for many
+00:03:04.819 patients left unchecked however damage
+00:03:08.540 caused by the inflammatory environment
+00:03:09.950 can expose new self antigens to the
+00:03:12.470 immune system continuing the cycle at
+00:03:16.579 this stage the first clinical symptoms
+00:03:18.620 of joint pain swelling and warmth appear
+00:03:20.930 some patients recover but most commonly
+00:03:23.630 patients develop a chronic destructive
+00:03:26.000 disorder as the disease progresses
+00:03:30.019 dendritic cells display the newly
+00:03:32.420 exposed self antigens and activate
+00:03:34.609 t-cells in the joint itself or in the
+00:03:36.769 local lymph node in addition b-cells
+00:03:40.700 infiltrate the joint where they
+00:03:42.290 proliferate and produce antibodies and
+00:03:44.269 other factors further amplifying the
+00:03:46.519 autoimmune response cells in the joint
+00:03:49.970 lining called fibroblasts like synovial
+00:03:52.160 sites also proliferate and grow into the
+00:03:54.739 joint space spreading across to the
+00:03:56.870 cartilage surface
+00:03:58.780 these cells secrete matrix degrading
+00:04:01.569 enzymes which erode the cartilage tissue
+00:04:03.959 bone is also eroded as osteoclasts which
+00:04:07.540 contribute to normal bone turnover
+00:04:09.130 become hyperactive a t-bone erosion
+00:04:13.480 cartilage destruction and joint swelling
+00:04:15.370 caused severe pain restrict movement of
+00:04:18.220 the joint and in the worst cases can
+00:04:20.079 cause joint deformities and as well as
+00:04:22.660 the joints other organs and body systems
+00:04:24.669 can be affected by the ongoing
+00:04:26.320 information for example information in
+00:04:29.410 the blood vessels can lead to heart
+00:04:30.790 disease so early and aggressive therapy
+00:04:33.730 is recommended to prevent these systemic
+00:04:35.770 complications by further understanding
+00:04:39.640 the immune markers and mechanisms of
+00:04:41.919 rheumatoid arthritis it's hoped that
+00:04:44.260 targeted interventions could ultimately
+00:04:46.169 change the course of the disease

@@ -1,0 +1,79 @@
+PMID- 24887337
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141007
+LR  - 20151119
+IS  - 0946-1965 (Print)
+IS  - 0946-1965 (Linking)
+VI  - 52
+IP  - 9
+DP  - 2014 Sep
+TI  - Evaluation of etanercept dose reduction in patients with rheumatoid arthritis 
+      using pharmacokinetic/pharmacodynamic modeling and simulation.
+PG  - 776-86
+LID - 10.5414/CP202131 [doi]
+AB  - OBJECTIVES: In this study, we attempt to explore the feasibility of alternative 
+      dosing regimens of etanercept in patients with rheumatoid arthritis (RA) using 
+      pharmacokinetic/pharmacodynamic (PK/PD) modeling and simulation. METHODS: All 
+      data used for estimation of PK/PD model parameters were collected from previously 
+      published literatures. American College of Rheumatology (ACR) 20/50/70 response 
+      rate and a disease activity score in 28 joints (DAS28) was selected as the 
+      principal clinical endpoint for further PK/PD modeling. The cumulative AUC (area 
+      under the concentration-time curve) of etanercept for different dosing regimens 
+      was calculated based on the final PK model and was then linked to the time course 
+      of clinical endpoints. Ten different dosing regimens were simulated in this 
+      study. RESULTS: The PK model that best fit the serum concentration-time data for 
+      etanercept was a one-compartment model with first order absorption and 
+      elimination. Based on the PK/PD analysis, the relationship between the predicted 
+      cumulative AUC of etanercept to the ACR 20/50/70 response rate and DAS28 score 
+      was well characterized by Emax logistic and inhibitory Emax model, respectively. 
+      In our simulations, the following dosing regimens that are equally effective to 
+      current recommended dosage of 25 mg twice weekly (b.i.w.): (1) 25 mg once weekly 
+      (q.w.); (2) 50 mg every 2 weeks (q2w); (3) 25 mg b.i.w. for 3 months and 25 mg 
+      q2w thereafter; and (4) 50 mg q.w. for 3 months and 50 mg q2w thereafter. 
+      CONCLUSION: In this study, the clinical data was well described by the models 
+      developed, and several alternative dosing regimens were proposed. Further 
+      clinical studies in patients are still needed to confirm our findings.
+FAU - Hsu, Li-Feng
+AU  - Hsu LF
+FAU - Huang, Jin-Ding
+AU  - Huang JD
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Int J Clin Pharmacol Ther
+JT  - International journal of clinical pharmacology and therapeutics
+JID - 9423309
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Receptors, Tumor Necrosis Factor)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+MH  - Antirheumatic Agents/*administration & dosage/adverse 
+      effects/blood/*pharmacokinetics
+MH  - Area Under Curve
+MH  - Arthritis, Rheumatoid/blood/diagnosis/*drug therapy
+MH  - *Computer Simulation
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Administration Schedule
+MH  - *Drug Dosage Calculations
+MH  - Etanercept
+MH  - Feasibility Studies
+MH  - Humans
+MH  - Immunoglobulin G/*administration & dosage/adverse effects/blood
+MH  - Logistic Models
+MH  - *Models, Biological
+MH  - Receptors, Tumor Necrosis Factor/*administration & dosage/blood
+MH  - Severity of Illness Index
+MH  - Treatment Outcome
+EDAT- 2014/06/03 06:00
+MHDA- 2014/10/08 06:00
+CRDT- 2014/06/03 06:00
+PHST- 2014/08/06 00:00 [accepted]
+PHST- 2014/06/03 06:00 [entrez]
+PHST- 2014/06/03 06:00 [pubmed]
+PHST- 2014/10/08 06:00 [medline]
+AID - 11538 [pii]
+AID - 10.5414/CP202131 [doi]
+PST - ppublish
+SO  - Int J Clin Pharmacol Ther. 2014 Sep;52(9):776-86. doi: 10.5414/CP202131.

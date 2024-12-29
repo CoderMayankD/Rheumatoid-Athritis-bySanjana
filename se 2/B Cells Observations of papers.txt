@@ -1,0 +1,54 @@
+1. Double Negative 2 (DN2) B Cells
+   - Increased frequency observed in RA patients compared to healthy controls.
+   - Mean frequency in RA patients: 1.73% ± 0.37
+   - Mean frequency in healthy controls: 0.76% ± 0.39
+   - Suggests an extrafollicular origin and possibly contributes to the pathogenesis of RA.
+   - Reference: Citation 1.
+
+2. Activated Naïve B Cells (aNAV)
+   - Almost doubled frequency in the blood of RA patients compared to healthy controls.
+   - Mean frequency in RA patients: 2.19% ± 0.67
+   - Mean frequency in healthy controls: 1.13% ± 0.45
+   - Represents early precursors that may develop into DN2 B cells, contributing to the immune response in RA.
+   - Reference: Citation 1.
+
+3. Class Switched IgG+ve Double Negative (CD27−IgD−) B Cells
+   - Increased frequency observed in RA patients.
+   - Express fewer mutations in the B cell receptor (BCR).
+   - Suggest an extrafollicular origin and may play a role in autoantibody production.
+   - Reference: Citation 1.
+
+4. Memory B Cells (CD27+IgD−)
+   - Characterized by surface markers like CD11c, CD21, CD24, and CD73.
+   - Express HLA-DR and CD86, suggesting an enhanced capacity to act as antigen-presenting cells (APCs).
+   - Elevated levels may contribute to the inflammatory response by stimulating autoreactive T cells.
+   - Reference: Citation 1.
+
+5. Switched Memory B Cells
+   - Includes subsets like switched memory-1, switched memory-2, and switched memory-3.
+   - Differentiated based on the expression of CD20, CD21, and CD24.
+   - Produce autoantibodies such as Rheumatoid Factor (RF) and anti-cyclic citrullinated peptide antibodies (anti-CCP), which are diagnostic markers for RA.
+   - Reference: Citation 1.
+
+6. B Cells Acting as Antigen-Presenting Cells (APCs)
+   - DN2 B cells, memory B cells, and other subsets express surface markers like HLA-DR, CD86, and others.
+   - Their ability to act as APCs is crucial in stimulating autoreactive T cells, contributing to the chronic inflammation seen in RA.
+   - Reference: Citation 1.
+
+7. Role of Antigen-Specific B Cells
+   - Exposure to microbial antigens following vaccination or infection marks the appearance of activated memory B cells (MBCs) and plasmablasts in the circulation within days.
+   - A subsequent phase of restoration of immunological 'quiescence' occurs within weeks or months.
+   - In rheumatoid arthritis, analyses of antigen-specific B cells can help understand the persistence and functional dynamics of autoreactive B cell memory, which may underlie chronicity of disease.
+   - Reference: Citation 2.
+
+8. Importance of Anti-Citrullinated Protein Antibodies (ACPA)
+   - 50–70% of RA patients harbor autoreactive B cells targeting citrullinated protein antigens.
+   - ACPA have emerged as important prognostic and diagnostic biomarkers closely linked to disease onset, risk for disease progression, and severity.
+   - Reference: Citation 2.
+
+Summary
+These data points highlight the significant roles of various B cell subtypes in RA. DN2 B cells, activated naïve B cells, class switched double negative B cells, memory B cells, and switched memory B cells all contribute to the immune response and inflammation in RA. Additionally, antigen-specific B cells play a crucial role in understanding the persistence and functional dynamics of autoreactive B cell memory, while anti-citrullinated protein antibodies serve as key diagnostic markers for the disease.
+
+Citation1: 2024 autoreactive B Cells.pdf
+Citation2: 2024 B Cells in RA Bone destruction in untreated ones.pdf
+
